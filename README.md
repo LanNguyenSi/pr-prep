@@ -1,5 +1,13 @@
 # PR Prep
 
+[![CI](https://github.com/LanNguyenSi/pr-prep/actions/workflows/ci.yml/badge.svg)](https://github.com/LanNguyenSi/pr-prep/actions/workflows/ci.yml)
+[![npm version](https://badge.fury.io/js/pr-prep.svg)](https://www.npmjs.com/package/pr-prep)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+CLI tool to prepare pull requests with pre-flight checks and auto-generated descriptions.
+
+Perfect complement to [DevReview](https://github.com/openclaw/openclaw/tree/master/skills/devreview) OpenClaw Skill!
+
 CLI tool to prepare pull requests with pre-flight checks and auto-generated descriptions.
 
 Perfect complement to [DevReview](https://github.com/openclaw/openclaw/tree/master/skills/devreview) OpenClaw Skill!
