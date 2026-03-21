@@ -8,10 +8,6 @@ CLI tool to prepare pull requests with pre-flight checks and auto-generated desc
 
 Perfect complement to [DevReview](https://github.com/openclaw/openclaw/tree/master/skills/devreview) OpenClaw Skill!
 
-CLI tool to prepare pull requests with pre-flight checks and auto-generated descriptions.
-
-Perfect complement to [DevReview](https://github.com/openclaw/openclaw/tree/master/skills/devreview) OpenClaw Skill!
-
 ## Features
 
 ✅ **Pre-flight Checks:**
