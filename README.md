@@ -1,10 +1,20 @@
 # PR Prep
 
+> Archived project. This repository is no longer maintained.
+>
+> For repository validation and pre-push checks, use [agent-preflight](https://github.com/LanNguyenSi/agent-preflight).
+> `pr-prep` remains as a reference for its PR description workflow.
+
 [![CI](https://github.com/LanNguyenSi/pr-prep/actions/workflows/ci.yml/badge.svg)](https://github.com/LanNguyenSi/pr-prep/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/pr-prep.svg)](https://www.npmjs.com/package/pr-prep)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 CLI tool to prepare pull requests with pre-flight checks and auto-generated descriptions.
+
+If you are looking for the maintained preflight checker, go to `agent-preflight`:
+
+- repo: `https://github.com/LanNguyenSi/agent-preflight`
+- package: `https://www.npmjs.com/package/agent-preflight`
 
 Perfect complement to [DevReview](https://github.com/openclaw/openclaw/tree/master/skills/devreview) OpenClaw Skill!
 
